@@ -17,8 +17,7 @@
 ![image](https://github.com/DSOL-KIM/portfolio/assets/79909496/875a91d5-f07e-4571-b6ef-8df00c6122b7)
 
 ##### 참고: 
-[숙명여자대학교/숙명여대] 제7회 이브와 컨퍼런스서 대상 수상한 컴퓨터과학과 재학생팀 인터뷰
-https://blog.naver.com/iamsookmyung/220558565725
+[숙명여자대학교/숙명여대] 제7회 이브와 컨퍼런스서 대상 수상한 컴퓨터과학과 재학생팀 인터뷰(https://blog.naver.com/iamsookmyung/2205585657251)
 
 ### 2. 2016 글로벌 데이터톤
 
@@ -61,7 +60,5 @@ https://blog.naver.com/iamsookmyung/220558565725
   ![image](https://github.com/DSOL-KIM/portfolio/assets/79909496/818f3bbd-8b43-4b9c-87c6-a00e9536f349)
 
 #### 참고
-[숙명여자대학교/숙명여대] 제4회 글로벌 데이터톤 2016 특별상 수상!
-
-http://www.sookmyung.ac.kr/bbs/sookmyungkr/90/14977/artclView.do?layout=unknown
+[숙명여자대학교/숙명여대] 제4회 글로벌 데이터톤 2016 특별상 수상!(http://www.sookmyung.ac.kr/bbs/sookmyungkr/90/14977/artclView.do?layout=unknown)
 
