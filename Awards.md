@@ -62,5 +62,6 @@ https://blog.naver.com/iamsookmyung/220558565725
 
 #### 참고
 [숙명여자대학교/숙명여대] 제4회 글로벌 데이터톤 2016 특별상 수상!
+
 http://www.sookmyung.ac.kr/bbs/sookmyungkr/90/14977/artclView.do?layout=unknown
 
