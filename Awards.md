@@ -58,3 +58,9 @@ https://blog.naver.com/iamsookmyung/220558565725
   - 임계값에 따라 어떤 건물이 위험 건물인지 아닌지 Decision Making
   - K-means Clustering 기법을 이용하여 유사 건물들을 Grouping
   - 건물들의 위험 정도와 센서의 위치를 3D 건물 조감도로 시각화
+  ![image](https://github.com/DSOL-KIM/portfolio/assets/79909496/818f3bbd-8b43-4b9c-87c6-a00e9536f349)
+
+#### 참고
+[숙명여자대학교/숙명여대] 제4회 글로벌 데이터톤 2016 특별상 수상!
+http://www.sookmyung.ac.kr/bbs/sookmyungkr/90/14977/artclView.do?layout=unknown
+
